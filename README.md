@@ -1,3 +1,13 @@
+# 🎲 WASM Game of Life 🎲
+
+This is an implementation of the Game of Life using Rust + WASM.
+
+Following the tutorial in the excellent [WASM Book](https://rustwasm.github.io/docs/book/game-of-life/introduction.html).
+
+See below the documentation for `wasm-pack-template`, which was used to generate this project:
+
+---
+
 # 🦀🕸️ `wasm-pack-template`
 
 A template for kick starting a Rust and WebAssembly project using
